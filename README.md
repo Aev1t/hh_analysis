@@ -1,4 +1,4 @@
 - # hh_analysis
-- skill factory analysis
+- skillfactory analysis
 - Ссылка на базы данных: https://drive.google.com/drive/folders/1F8HRzmoF_e80PYqVfatiWbahbnBPfjER?usp=sharing
 - Для отображения графиков Plotly используем папку 'Plotly graphics'
